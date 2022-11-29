@@ -1,9 +1,8 @@
-pandas
-random
-numpy
-matplotlib
-re
-xlwings
-ploty
-fpdf
-dataframe_image
+pandas==1.4.1
+numpy==1.22.2
+matplotlib==3.6.0
+matplotlib-inline==0.1.6
+xlwings==0.28.5
+plotly==5.11.0
+fpdf==1.7.2
+dataframe-image==0.1.3
