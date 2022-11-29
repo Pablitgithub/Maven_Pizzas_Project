@@ -1,7 +1,7 @@
 # Maven_Pizzas_Project
 Con el uso de csv files sobre la pizzería maven(pedidos, pizzas, tipos, ingredientes, precio),  me he encargado de, realizar una estimación sobre la cantidad de ingredientes demanda semanalmente, acompañada de una serie de gráficas y reportes.
 
-## Necesidades
+## Guía
 
 Es necesario tener instaladas las librerías del requirements.txt con el comando pip install -r requirements.txt, así como los csv no pertenecientes al output, y en los datos del 2016 haría falta tener descargadas las imágnes de las gráficas o descomentar las líneas con el comando savefig y en ellas la dirección en la que se está ejecutanto el script.
 
