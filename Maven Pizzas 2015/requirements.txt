@@ -1,0 +1,7 @@
+pandas
+random
+numpy
+matplotlib
+re
+xlwings
+xlwriter
