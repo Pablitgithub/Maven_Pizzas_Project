@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import re
 from matplotlib.backends.backend_pdf import PdfPages
 import xlwings as xw
-import xlsxwriter
+
 
 
 def extract():
