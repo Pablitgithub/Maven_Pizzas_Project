@@ -1,10 +1,14 @@
 # Maven_Pizzas_Project
-Con el uso de csv files sobre la pizzería maven(pedidos, pizzas, tipos, ingredientes, precio),  me he encargado de, realizar una estimación sobre la cantidad de ingredientes demanda semanalmente, acompañada de una serie de gráficas y reportes
+Con el uso de csv files sobre la pizzería maven(pedidos, pizzas, tipos, ingredientes, precio),  me he encargado de, realizar una estimación sobre la cantidad de ingredientes demanda semanalmente, acompañada de una serie de gráficas y reportes.
+
+## Necesidades
+
+Es necesario tener instaladas las librerías del requirements.txt con el comando pip install -r requirements.txt, así como los csv no pertenecientes al output, y en los datos del 2016 haría falta tener descargadas las imágnes de las gráficas o descomentar las líneas con el comando savefig y en ellas la dirección en la que se está ejecutanto el script.
 
 # Datos del 2015
 Con los csv's de este año al encontrarse en perfectas condiciones, mediante una ETL, extraemos de los csv la información que me ha parecido importante, tanto la cantidad como el tamaño de las pizzas, aplicando un multiplicador dependiendo de su tamaño(s,m,l.xl,xxl), y de esta forma agrupar las pizzas por tipo en lugar de por tamaño.
 
-Finalmente una vez hemos aplicado los multiplicadores, calculamos los ingradientes y las raciones de cada uno de estos a lo largo del año, hacemos la estimación y devolvemos el resultado tanto en un csv con los ingredientes y sus cantidades como en un archivo de excel en el que se observa la calidad del dato. Quedará adjuntado el resultado de la ejecución del programa. Serán necesarios para esta los csv y las librearías que aparecen en el requirements.txt de cada carpeta
+Finalmente una vez hemos aplicado los multiplicadores, calculamos los ingradientes y las raciones de cada uno de estos a lo largo del año, hacemos la estimación y devolvemos el resultado tanto en un csv con los ingredientes y sus cantidades como en un archivo de excel en el que se observa la calidad del dato. Quedará adjuntado el resultado de la ejecución del programa. Serán necesarios para esta los csv y las librearías que aparecen en el requirements.txt de cada carpeta.
 
 
 # Datos del 2016
