@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <Ingredientes>Bacon</Ingredientes>
+    <Cantidad>170.0</Cantidad>
+  </row>
+  <row>
+    <index>1</index>
+    <Ingredientes> Pepperoni</Ingredientes>
+    <Cantidad>273.0</Cantidad>
+  </row>
+  <row>
+    <index>2</index>
+    <Ingredientes> Italian Sausage</Ingredientes>
+    <Cantidad>170.0</Cantidad>
+  </row>
+  <row>
+    <index>3</index>
+    <Ingredientes> Chorizo Sausage</Ingredientes>
+    <Cantidad>170.0</Cantidad>
+  </row>
+  <row>
+    <index>4</index>
+    <Ingredientes>Mozzarella Cheese</Ingredientes>
+    <Cantidad>114.0</Cantidad>
+  </row>
+  <row>
+    <index>5</index>
+    <Ingredientes> Provolone Cheese</Ingredientes>
+    <Cantidad>63.0</Cantidad>
+  </row>
+  <row>
+    <index>6</index>
+    <Ingredientes> Smoked Gouda Cheese</Ingredientes>
+    <Cantidad>63.0</Cantidad>
+  </row>
+  <row>
+    <index>7</index>
+    <Ingredientes> Romano Cheese</Ingredientes>
+    <Cantidad>63.0</Cantidad>
+  </row>
+  <row>
+    <index>8</index>
+    <Ingredientes> Blue Cheese</Ingredientes>
+    <Cantidad>63.0</Cantidad>
+  </row>
+  <row>
+    <index>9</index>
+    <Ingredientes> Garlic</Ingredientes>
+    <Cantidad>659.0</Cantidad>
+  </row>
+  <row>
+    <index>10</index>
+    <Ingredientes>Ricotta Cheese</Ingredientes>
+    <Cantidad>60.0</Cantidad>
+  </row>
+  <row>
+    <index>11</index>
+    <Ingredientes> Gorgonzola Piccante Cheese</Ingredientes>
+    <Cantidad>60.0</Cantidad>
+  </row>
+  <row>
+    <index>12</index>
+    <Ingredientes> Mozzarella Cheese</Ingredientes>
+    <Cantidad>163.0</Cantidad>
+  </row>
+  <row>
+    <index>13</index>
+    <Ingredientes> Parmigiano Reggiano Cheese</Ingredientes>
+    <Cantidad>60.0</Cantidad>
+  </row>
+  <row>
+    <index>14</index>
+    <Ingredientes>Barbecued Chicken</Ingredientes>
+    <Cantidad>55.0</Cantidad>
+  </row>
+  <row>
+    <index>15</index>
+    <Ingredientes> Red Peppers</Ingredientes>
+    <Cantidad>365.0</Cantidad>
+  </row>
+  <row>
+    <index>16</index>
+    <Ingredientes> Green Peppers</Ingredientes>
+    <Cantidad>116.0</Cantidad>
+  </row>
+  <row>
+    <index>17</index>
+    <Ingredientes> Tomatoes</Ingredientes>
+    <Cantidad>532.0</Cantidad>
+  </row>
+  <row>
+    <index>18</index>
+    <Ingredientes> Red Onions</Ingredientes>
+    <Cantidad>436.0</Cantidad>
+  </row>
+  <row>
+    <index>19</index>
+    <Ingredientes> Barbecue Sauce</Ingredientes>
+    <Cantidad>55.0</Cantidad>
+  </row>
+  <row>
+    <index>20</index>
+    <Ingredientes>Chicken</Ingredientes>
+    <Cantidad>193.0</Cantidad>
+  </row>
+  <row>
+    <index>21</index>
+    <Ingredientes> Pineapple</Ingredientes>
+    <Cantidad>106.0</Cantidad>
+  </row>
+  <row>
+    <index>22</index>
+    <Ingredientes> Thai Sweet Chilli Sauce</Ingredientes>
+    <Cantidad>55.0</Cantidad>
+  </row>
+  <row>
+    <index>23</index>
+    <Ingredientes> Artichoke</Ingredientes>
+    <Cantidad>52.0</Cantidad>
+  </row>
+  <row>
+    <index>24</index>
+    <Ingredientes> Spinach</Ingredientes>
+    <Cantidad>106.0</Cantidad>
+  </row>
+  <row>
+    <index>25</index>
+    <Ingredientes> Jalapeno Peppers</Ingredientes>
+    <Cantidad>130.0</Cantidad>
+  </row>
+  <row>
+    <index>26</index>
+    <Ingredientes> Fontina Cheese</Ingredientes>
+    <Cantidad>73.0</Cantidad>
+  </row>
+  <row>
+    <index>27</index>
+    <Ingredientes> Gouda Cheese</Ingredientes>
+    <Cantidad>52.0</Cantidad>
+  </row>
+  <row>
+    <index>28</index>
+    <Ingredientes>Sliced Ham</Ingredientes>
+    <Cantidad>52.0</Cantidad>
+  </row>
+  <row>
+    <index>29</index>
+    <Ingredientes>Pepperoni</Ingredientes>
+    <Cantidad>80.0</Cantidad>
+  </row>
+  <row>
+    <index>30</index>
+    <Ingredientes> Mushrooms</Ingredientes>
+    <Cantidad>172.0</Cantidad>
+  </row>
+  <row>
+    <index>31</index>
+    <Ingredientes> Bacon</Ingredientes>
+    <Cantidad>51.0</Cantidad>
+  </row>
+  <row>
+    <index>32</index>
+    <Ingredientes>Capocollo</Ingredientes>
+    <Cantidad>77.0</Cantidad>
+  </row>
+  <row>
+    <index>33</index>
+    <Ingredientes> Goat Cheese</Ingredientes>
+    <Cantidad>77.0</Cantidad>
+  </row>
+  <row>
+    <index>34</index>
+    <Ingredientes> Artichokes</Ingredientes>
+    <Cantidad>125.0</Cantidad>
+  </row>
+  <row>
+    <index>35</index>
+    <Ingredientes> Peperoncini verdi</Ingredientes>
+    <Cantidad>45.0</Cantidad>
+  </row>
+  <row>
+    <index>36</index>
+    <Ingredientes> Corn</Ingredientes>
+    <Cantidad>79.0</Cantidad>
+  </row>
+  <row>
+    <index>37</index>
+    <Ingredientes> Cilantro</Ingredientes>
+    <Cantidad>79.0</Cantidad>
+  </row>
+  <row>
+    <index>38</index>
+    <Ingredientes> Chipotle Sauce</Ingredientes>
+    <Cantidad>79.0</Cantidad>
+  </row>
+  <row>
+    <index>39</index>
+    <Ingredientes>Calabrese Salami</Ingredientes>
+    <Cantidad>43.0</Cantidad>
+  </row>
+  <row>
+    <index>40</index>
+    <Ingredientes> Capocollo</Ingredientes>
+    <Cantidad>76.0</Cantidad>
+  </row>
+  <row>
+    <index>41</index>
+    <Ingredientes> Green Olives</Ingredientes>
+    <Cantidad>134.0</Cantidad>
+  </row>
+  <row>
+    <index>42</index>
+    <Ingredientes>Coarse Sicilian Salami</Ingredientes>
+    <Cantidad>42.0</Cantidad>
+  </row>
+  <row>
+    <index>43</index>
+    <Ingredientes> Luganega Sausage</Ingredientes>
+    <Cantidad>42.0</Cantidad>
+  </row>
+  <row>
+    <index>44</index>
+    <Ingredientes> Onions</Ingredientes>
+    <Cantidad>42.0</Cantidad>
+  </row>
+  <row>
+    <index>45</index>
+    <Ingredientes>Kalamata Olives</Ingredientes>
+    <Cantidad>36.0</Cantidad>
+  </row>
+  <row>
+    <index>46</index>
+    <Ingredientes> Feta Cheese</Ingredientes>
+    <Cantidad>105.0</Cantidad>
+  </row>
+  <row>
+    <index>47</index>
+    <Ingredientes> Beef Chuck Roast</Ingredientes>
+    <Cantidad>36.0</Cantidad>
+  </row>
+  <row>
+    <index>48</index>
+    <Ingredientes>Tomatoes</Ingredientes>
+    <Cantidad>66.0</Cantidad>
+  </row>
+  <row>
+    <index>49</index>
+    <Ingredientes>Genoa Salami</Ingredientes>
+    <Cantidad>34.0</Cantidad>
+  </row>
+  <row>
+    <index>50</index>
+    <Ingredientes> Asiago Cheese</Ingredientes>
+    <Cantidad>75.0</Cantidad>
+  </row>
+  <row>
+    <index>51</index>
+    <Ingredientes>Mushrooms</Ingredientes>
+    <Cantidad>33.0</Cantidad>
+  </row>
+  <row>
+    <index>52</index>
+    <Ingredientes> Zucchini</Ingredientes>
+    <Cantidad>54.0</Cantidad>
+  </row>
+  <row>
+    <index>53</index>
+    <Ingredientes> Oregano</Ingredientes>
+    <Cantidad>33.0</Cantidad>
+  </row>
+  <row>
+    <index>54</index>
+    <Ingredientes> Anchovies</Ingredientes>
+    <Cantidad>32.0</Cantidad>
+  </row>
+  <row>
+    <index>55</index>
+    <Ingredientes>Prosciutto di San Daniele</Ingredientes>
+    <Cantidad>32.0</Cantidad>
+  </row>
+  <row>
+    <index>56</index>
+    <Ingredientes> Arugula</Ingredientes>
+    <Cantidad>32.0</Cantidad>
+  </row>
+  <row>
+    <index>57</index>
+    <Ingredientes>Spinach</Ingredientes>
+    <Cantidad>110.0</Cantidad>
+  </row>
+  <row>
+    <index>58</index>
+    <Ingredientes> Pesto Sauce</Ingredientes>
+    <Cantidad>63.0</Cantidad>
+  </row>
+  <row>
+    <index>59</index>
+    <Ingredientes> Alfredo Sauce</Ingredientes>
+    <Cantidad>22.0</Cantidad>
+  </row>
+  <row>
+    <index>60</index>
+    <Ingredientes>Nduja Salami</Ingredientes>
+    <Cantidad>22.0</Cantidad>
+  </row>
+  <row>
+    <index>61</index>
+    <Ingredientes> Pancetta</Ingredientes>
+    <Cantidad>22.0</Cantidad>
+  </row>
+  <row>
+    <index>62</index>
+    <Ingredientes> Friggitello Peppers</Ingredientes>
+    <Cantidad>22.0</Cantidad>
+  </row>
+  <row>
+    <index>63</index>
+    <Ingredientes>Soppressata Salami</Ingredientes>
+    <Cantidad>22.0</Cantidad>
+  </row>
+  <row>
+    <index>64</index>
+    <Ingredientes> Kalamata Olives</Ingredientes>
+    <Cantidad>41.0</Cantidad>
+  </row>
+  <row>
+    <index>65</index>
+    <Ingredientes> Sun-dried Tomatoes</Ingredientes>
+    <Cantidad>41.0</Cantidad>
+  </row>
+  <row>
+    <index>66</index>
+    <Ingredientes> Plum Tomatoes</Ingredientes>
+    <Cantidad>21.0</Cantidad>
+  </row>
+  <row>
+    <index>67</index>
+    <Ingredientes>Eggplant</Ingredientes>
+    <Cantidad>21.0</Cantidad>
+  </row>
+  <row>
+    <index>68</index>
+    <Ingredientes>Brie Carre Cheese</Ingredientes>
+    <Cantidad>9.0</Cantidad>
+  </row>
+  <row>
+    <index>69</index>
+    <Ingredientes> Prosciutto</Ingredientes>
+    <Cantidad>9.0</Cantidad>
+  </row>
+  <row>
+    <index>70</index>
+    <Ingredientes> Caramelized Onions</Ingredientes>
+    <Cantidad>9.0</Cantidad>
+  </row>
+  <row>
+    <index>71</index>
+    <Ingredientes> Pears</Ingredientes>
+    <Cantidad>9.0</Cantidad>
+  </row>
+  <row>
+    <index>72</index>
+    <Ingredientes> Thyme</Ingredientes>
+    <Cantidad>9.0</Cantidad>
+  </row>
+</data>
