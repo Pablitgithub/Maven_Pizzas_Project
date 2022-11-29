@@ -1,7 +1,6 @@
-pandas
-random
-numpy
-matplotlib
-re
-xlwings
-xlwriter
+pandas==1.4.1
+numpy==1.22.2
+matplotlib==3.6.0
+matplotlib-inline==0.1.6
+xlwings==0.28.5
+
