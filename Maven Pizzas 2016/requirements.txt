@@ -1,0 +1,9 @@
+pandas
+random
+numpy
+matplotlib
+re
+xlwings
+ploty
+fpdf
+dataframe_image
